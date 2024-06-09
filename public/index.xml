@@ -6,21 +6,21 @@
     <description>Recent content on Luana Martins</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jun 2024 16:43:04 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Luana</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hello! 👋 I am Luana Martins, a post-doctoral researcher at the University of Salerno (UNISA). I am working under the supervision of Prof. Dario Di Nucci in the RECHARGE project that proposes a novel framework for automating performance testing in CI/CD pipelines by leveraging static analysis and search-based algorithms.&#xA;In 2024, I concluded my Ph.D. in Computer Science at the Federal University of Bahia (UFBA), Brazil, under the supervision of Prof.</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 08 Jun 2024 16:43:04 +0200</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
